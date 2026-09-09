@@ -16,3 +16,4 @@ This repository serves as a personal workspace for hands-on coding, experimentat
 - Maintain notes and useful code references
 
 ## Repository Structure
+├── practice/ ├── projects/ ├── experiments/ ├── snippets/ └── README.md
